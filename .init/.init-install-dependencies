@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/greeting-web-application-10343-10357/hello_world_frontend"
+}
